@@ -1,0 +1,15 @@
+{
+  "database_name": "Thyroid Nodule & Cancer Molecular Markers Knowledgebase (TNMK)",
+  "version": "1.0.0",
+  "last_updated": "September 2026",
+  "last_updated_iso": "2026-09-14T03:29:49.950983+00:00",
+  "total_alterations": 33,
+  "high_risk_count": 16,
+  "intermediate_risk_count": 10,
+  "low_risk_count": 4,
+  "cna_count": 3,
+  "actionable_count": 15,
+  "investigator": "Johnson Thomas, MD, FACE, FEAA",
+  "affiliation": "Department of Endocrinology, Mercy Hospital Springfield, Missouri, USA",
+  "repository_url": "https://github.com/johnyquest7/thyroid-nodule-molecular-markers"
+}
