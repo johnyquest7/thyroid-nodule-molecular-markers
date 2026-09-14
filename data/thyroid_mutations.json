@@ -28,25 +28,22 @@
     },
     "literature": [
       {
-        "title": "Integrated Genomic Characterization of Papillary Thyroid Carcinoma",
-        "pmid": "25344799",
-        "journal": "Cell (Cancer Genome Atlas Research Network)",
-        "year": 2014,
-        "summary": "Established the fundamental dichotomy between BRAF V600E-like (high ERK signaling, low thyroid differentiation) and RAS-like thyroid carcinomas."
+        "pmid": "25417114",
+        "title": "Integrated genomic characterization of papillary thyroid carcinoma",
+        "first_author": "Cancer Genome Atlas Research Network",
+        "journal_year": "Cell (2014)"
       },
       {
-        "title": "Synergistic effect of BRAF V600E and TERT promoter mutations on poor outcomes in thyroid cancer",
-        "pmid": "25219927",
-        "journal": "Nature Communications",
-        "year": 2014,
-        "summary": "Demonstrated that co-existence of BRAF V600E and TERT promoter mutations confers super-additive risk of aggressive recurrence and disease-specific mortality."
+        "pmid": "25024077",
+        "title": "BRAF V600E and TERT promoter mutations cooperatively identify the most aggressive papillary thyroid cancer with highest patient mortality",
+        "first_author": "Xing M, et al.",
+        "journal_year": "J Clin Oncol (2014)"
       },
       {
-        "title": "2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer",
         "pmid": "26462967",
-        "journal": "Thyroid",
-        "year": 2016,
-        "summary": "Incorporated BRAF V600E and molecular testing status into risk stratification paradigms and surgical considerations."
+        "title": "2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer",
+        "first_author": "Haugen BR, et al.",
+        "journal_year": "Thyroid (2016)"
       }
     ]
   },
@@ -80,18 +77,16 @@
     },
     "literature": [
       {
-        "title": "TERT promoter mutations are associated with distant metastases in upper aerodigestive and thyroid cancers",
-        "pmid": "24336190",
-        "journal": "Clin Cancer Res",
-        "year": 2014,
-        "summary": "Identified TERT promoter alterations as premier markers for thyroid cancer dedifferentiation and distant metastatic spread."
+        "pmid": "25583906",
+        "title": "TERT promoter mutations are associated with distant metastases in upper aerodigestive and thyroid tumors",
+        "first_author": "Gandolfi G, et al.",
+        "journal_year": "Eur J Endocrinol (2015)"
       },
       {
-        "title": "Synergistic effect of BRAF V600E and TERT promoter mutations on poor outcomes in thyroid cancer",
-        "pmid": "25219927",
-        "journal": "Nat Commun",
-        "year": 2014,
-        "summary": "Demonstrated that dual BRAF V600E and TERT mutations drive dramatic clinical aggressiveness compared to either mutation alone."
+        "pmid": "25024077",
+        "title": "BRAF V600E and TERT promoter mutations cooperatively identify the most aggressive papillary thyroid cancer with highest patient mortality",
+        "first_author": "Xing M, et al.",
+        "journal_year": "J Clin Oncol (2014)"
       }
     ]
   },
@@ -124,11 +119,10 @@
     },
     "literature": [
       {
+        "pmid": "26733501",
         "title": "TERT promoter mutations in thyroid cancer",
-        "pmid": "23637779",
-        "journal": "Endocr Relat Cancer",
-        "year": 2013,
-        "summary": "Landmark paper characterizing TERT C228T and C250T frequencies across well-differentiated versus anaplastic thyroid carcinomas."
+        "first_author": "Liu R, Xing M",
+        "journal_year": "Endocr Relat Cancer (2016)"
       }
     ]
   },
@@ -161,11 +155,10 @@
     },
     "literature": [
       {
-        "title": "The Genomic Landscape of Anaplastic Thyroid Carcinoma",
-        "pmid": "29739870",
-        "journal": "J Clin Oncol",
-        "year": 2018,
-        "summary": "Detailed comprehensive sequencing showing TP53 mutations present in >70% of ATCs, driving rapid transition from differentiated carcinoma."
+        "pmid": "26878173",
+        "title": "Genomic and transcriptomic hallmarks of poorly differentiated and anaplastic thyroid cancers",
+        "first_author": "Landa I, et al.",
+        "journal_year": "J Clin Invest (2016)"
       }
     ]
   },
@@ -197,11 +190,10 @@
     },
     "literature": [
       {
-        "title": "Genetic Alterations in Fatal Forms of Thyroid Cancer",
-        "pmid": "27083054",
-        "journal": "Thyroid",
-        "year": 2016,
-        "summary": "Identified dominant clonal TP53 mutations as primary drivers of lethality and dedifferentiation."
+        "pmid": "28634282",
+        "title": "Genomic Alterations in Fatal Forms of Non-Anaplastic Thyroid Cancer: Identification of Targetable Genetic Events",
+        "first_author": "Ibrahimpasic T, Xu B, et al.",
+        "journal_year": "Clin Cancer Res (2017)"
       }
     ]
   },
@@ -233,18 +225,16 @@
     },
     "literature": [
       {
-        "title": "Revised American Thyroid Association Guidelines for the Management of Medullary Thyroid Carcinoma",
         "pmid": "25810047",
-        "journal": "Thyroid",
-        "year": 2015,
-        "summary": "Established ATA highest-risk classification for RET M918T mutations requiring immediate surgical intervention."
+        "title": "Revised American Thyroid Association guidelines for the management of medullary thyroid carcinoma",
+        "first_author": "Wells SA Jr, et al.",
+        "journal_year": "Thyroid (2015)"
       },
       {
-        "title": "Efficacy of Selpercatinib in RET-Altered Thyroid Cancers",
         "pmid": "32846061",
-        "journal": "New England Journal of Medicine",
-        "year": 2020,
-        "summary": "LIBRETTO-001 trial showing durable 73% objective response rate with selpercatinib in advanced RET-mutant medullary thyroid cancers."
+        "title": "Efficacy of Selpercatinib in RET-Altered Thyroid Cancers",
+        "first_author": "Wirth LJ, et al.",
+        "journal_year": "N Engl J Med (2020)"
       }
     ]
   },
@@ -276,11 +266,10 @@
     },
     "literature": [
       {
-        "title": "Mutations of the RET proto-oncogene in multiple endocrine neoplasia type 2A (MEN 2A)",
         "pmid": "8099202",
-        "journal": "Nature",
-        "year": 1993,
-        "summary": "Original discovery linking C634 mutations in the extracellular domain to inherited MEN2A predisposition."
+        "title": "Germ-line mutations of the RET proto-oncogene in multiple endocrine neoplasia type 2A",
+        "first_author": "Mulligan LM, et al.",
+        "journal_year": "Nature (1993)"
       }
     ]
   },
@@ -312,11 +301,10 @@
     },
     "literature": [
       {
-        "title": "Clinical Efficacy of Selpercatinib in RET-Mutant Thyroid Cancer with V804 Gatekeeper Mutation",
         "pmid": "32846061",
-        "journal": "N Engl J Med",
-        "year": 2020,
-        "summary": "Demonstrated that selpercatinib bypasses the V804 gatekeeper clash, achieving potent anti-tumor control."
+        "title": "Efficacy of Selpercatinib in RET-Altered Thyroid Cancers",
+        "first_author": "Wirth LJ, et al.",
+        "journal_year": "N Engl J Med (2020)"
       }
     ]
   },
@@ -348,11 +336,10 @@
     },
     "literature": [
       {
-        "title": "Activation of RET oncogene by chromosomal rearrangement in human papillary thyroid carcinoma",
-        "pmid": "2172777",
-        "journal": "Cell",
-        "year": 1990,
-        "summary": "Original demonstration of the chimeric RET/PTC1 rearrangement generating constitutively active kinase."
+        "pmid": "2406025",
+        "title": "PTC is a novel rearranged form of the ret proto-oncogene and is frequently detected in vivo in human thyroid papillary carcinomas",
+        "first_author": "Grieco M, et al.",
+        "journal_year": "Cell (1990)"
       }
     ]
   },
@@ -384,11 +371,10 @@
     },
     "literature": [
       {
-        "title": "High prevalence of RET/PTC rearrangements in post-Chernobyl thyroid cancers",
-        "pmid": "7553874",
-        "journal": "Lancet",
-        "year": 1995,
-        "summary": "Highlighted RET/PTC3 predominance in radiation-induced juvenile thyroid carcinomas with aggressive onset."
+        "pmid": "8545102",
+        "title": "High prevalence of RET rearrangement in thyroid tumors of children from Belarus after the Chernobyl reactor accident",
+        "first_author": "Klugbauer S, et al.",
+        "journal_year": "Oncogene (1995)"
       }
     ]
   },
@@ -421,11 +407,10 @@
     },
     "literature": [
       {
-        "title": "Efficacy of Larotrectinib in TRK Fusion-Positive Advanced Cancers",
         "pmid": "29466156",
-        "journal": "N Engl J Med",
-        "year": 2018,
-        "summary": "Demonstrated landmark 75% overall response rate across TRK fusion tumors, including advanced refractory thyroid carcinomas."
+        "title": "Efficacy of Larotrectinib in TRK Fusion-Positive Cancers in Adults and Children",
+        "first_author": "Drilon A, et al.",
+        "journal_year": "N Engl J Med (2018)"
       }
     ]
   },
@@ -456,11 +441,10 @@
     },
     "literature": [
       {
-        "title": "NTRK Fusions in Thyroid Cancer: From Biology to Clinical Practice",
-        "pmid": "33408332",
-        "journal": "Frontiers in Endocrinology",
-        "year": 2020,
-        "summary": "Review of NTRK1 and NTRK3 rearrangements in thyroid cytology and their therapeutic stratification."
+        "pmid": "26784937",
+        "title": "NTRK fusion oncogenes in pediatric papillary thyroid carcinoma in northeast United States",
+        "first_author": "Prasad ML, et al.",
+        "journal_year": "Cancer (2016)"
       }
     ]
   },
@@ -493,11 +477,10 @@
     },
     "literature": [
       {
-        "title": "STRN-ALK fusion in thyroid carcinoma and its therapeutic targeting",
-        "pmid": "24508493",
-        "journal": "Cancer Discovery",
-        "year": 2014,
-        "summary": "Discovered STRN-ALK fusions in aggressive thyroid cancers with profound in vitro and clinical response to crizotinib."
+        "pmid": "24613930",
+        "title": "Identification of the transforming STRN-ALK fusion as a potential therapeutic target in the aggressive forms of thyroid cancer",
+        "first_author": "Kelly LM, et al.",
+        "journal_year": "Proc Natl Acad Sci U S A (2014)"
       }
     ]
   },
@@ -530,11 +513,10 @@
     },
     "literature": [
       {
-        "title": "PIK3CA Mutations in Advanced Thyroid Cancers",
-        "pmid": "15886297",
-        "journal": "J Clin Endocrinol Metab",
-        "year": 2005,
-        "summary": "Demonstrated enrichment of PIK3CA kinase mutations in poorly differentiated and anaplastic thyroid carcinomas."
+        "pmid": "16288007",
+        "title": "Mutation of the PIK3CA gene in anaplastic thyroid cancer",
+        "first_author": "García-Rostán G, et al.",
+        "journal_year": "Cancer Res (2005)"
       }
     ]
   },
@@ -567,11 +549,10 @@
     },
     "literature": [
       {
-        "title": "AKT1 E17K mutation in thyroid carcinomas",
-        "pmid": "18316450",
-        "journal": "Endocr Relat Cancer",
-        "year": 2008,
-        "summary": "Identified AKT1 pleckstrin domain mutation contributing to aggressive invasion in follicular-derived malignancies."
+        "pmid": "19487299",
+        "title": "Mutational profile of advanced primary and metastatic radioactive iodine-refractory thyroid cancers reveals distinct pathogenetic roles for BRAF, PIK3CA, and AKT1",
+        "first_author": "Ricarte-Filho JC, et al.",
+        "journal_year": "Cancer Res (2009)"
       }
     ]
   },
@@ -603,11 +584,10 @@
     },
     "literature": [
       {
-        "title": "Beta-catenin mutations are restricted to poorly differentiated and undifferentiated thyroid carcinomas",
-        "pmid": "10557284",
-        "journal": "Cancer Res",
-        "year": 1999,
-        "summary": "Landmark report showing CTNNB1 mutations occur exclusively during late-stage dedifferentiation to ATC."
+        "pmid": "10213482",
+        "title": "Frequent mutation and nuclear localization of beta-catenin in anaplastic thyroid carcinoma",
+        "first_author": "Garcia-Rostan G, et al.",
+        "journal_year": "Cancer Res (1999)"
       }
     ]
   },
@@ -627,9 +607,9 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Low to Intermediate Risk",
-    "rom_percentage": "70\u201380%",
-    "thyroseq_v3_class": "Currently Available / RAS-like (ROM 70\u201380%)",
-    "afirma_xa_class": "Suspicious / Variant Present (ROM 60\u201375%)",
+    "rom_percentage": "70–80%",
+    "thyroseq_v3_class": "Currently Available / RAS-like (ROM 70–80%)",
+    "afirma_xa_class": "Suspicious / Variant Present (ROM 60–75%)",
     "thygenext_class": "Moderate / Positive (RAS-like)",
     "actionability": "Lobectomy often sufficient initial surgical management in non-invasive/encapsulated tumors; MEK inhibitor trials in advanced disease.",
     "clinical_summary": "Most frequent RAS mutation in thyroid neoplasms. Impairs intrinsic GTPase hydrolysis, causing persistent active GTP-bound signaling. Associated with follicular architecture, low likelihood of nodal metastases, but moderate risk of capsular/vascular invasion.",
@@ -641,18 +621,16 @@
     },
     "literature": [
       {
-        "title": "Molecular Testing for Thyroid Nodules: The ThyroSeq Experience",
-        "pmid": "30616147",
-        "journal": "JAMA Oncology",
-        "year": 2019,
-        "summary": "Demonstrated that isolated RAS mutations yield ~75% ROM in Bethesda III/IV nodules with low structural recurrence when histologically non-invasive."
+        "pmid": "30419129",
+        "title": "Performance of a Multigene Genomic Classifier in Thyroid Nodules With Indeterminate Cytology: A Prospective Blinded Multicenter Study",
+        "first_author": "Steward DL, et al.",
+        "journal_year": "JAMA Oncol (2019)"
       },
       {
-        "title": "Nomenclature Revision for Encapsulated Follicular Variant of Papillary Thyroid Carcinoma: A Paradigm Shift to Reduce Overtreatment",
         "pmid": "27078145",
-        "journal": "JAMA Oncology",
-        "year": 2016,
-        "summary": "Reclassified non-invasive follicular variant PTC harboring RAS mutations as NIFTP, averting unnecessary total thyroidectomy and radioiodine."
+        "title": "Nomenclature Revision for Encapsulated Follicular Variant of Papillary Thyroid Carcinoma: A Paradigm Shift to Reduce Overtreatment",
+        "first_author": "Nikiforov YE, et al.",
+        "journal_year": "JAMA Oncol (2016)"
       }
     ]
   },
@@ -672,8 +650,8 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Low to Intermediate Risk",
-    "rom_percentage": "65\u201375%",
-    "thyroseq_v3_class": "RAS-like (ROM 65\u201375%)",
+    "rom_percentage": "65–75%",
+    "thyroseq_v3_class": "RAS-like (ROM 65–75%)",
     "afirma_xa_class": "Suspicious / Variant Present",
     "thygenext_class": "Moderate / Positive",
     "actionability": "Diagnostic lobectomy typically indicated for Bethesda III/IV cytopathology.",
@@ -686,11 +664,10 @@
     },
     "literature": [
       {
-        "title": "Preoperative Diagnostic Evaluation of Thyroid Nodules with Indeterminate Cytology",
-        "pmid": "31580210",
-        "journal": "Endocr Rev",
-        "year": 2020,
-        "summary": "Evaluated the performance characteristics of ThyroSeq v3 and Afirma GSC for codon 61 RAS variants."
+        "pmid": "29799911",
+        "title": "Performance of a Genomic Sequencing Classifier for the Preoperative Diagnosis of Cytologically Indeterminate Thyroid Nodules",
+        "first_author": "Patel KN, et al.",
+        "journal_year": "JAMA Surg (2018)"
       }
     ]
   },
@@ -710,8 +687,8 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Low to Intermediate Risk",
-    "rom_percentage": "70\u201380%",
-    "thyroseq_v3_class": "RAS-like (ROM 70\u201380%)",
+    "rom_percentage": "70–80%",
+    "thyroseq_v3_class": "RAS-like (ROM 70–80%)",
     "afirma_xa_class": "Suspicious / Variant Present",
     "thygenext_class": "Moderate / Positive",
     "actionability": "Lobectomy often sufficient initial surgical intervention.",
@@ -724,11 +701,10 @@
     },
     "literature": [
       {
-        "title": "Impact of RAS Mutations in Indeterminate Thyroid Nodules",
-        "pmid": "28169974",
-        "journal": "Ann Surg",
-        "year": 2017,
-        "summary": "Prospective analysis demonstrating high rate of indolent or low-risk histology for isolated HRAS Q61R nodules."
+        "pmid": "23539734",
+        "title": "RAS mutations in thyroid FNA specimens are highly predictive of predominant follicular patterned thyroid neoplasms",
+        "first_author": "Gupta N, et al.",
+        "journal_year": "J Clin Endocrinol Metab (2013)"
       }
     ]
   },
@@ -747,8 +723,8 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Low to Intermediate Risk",
-    "rom_percentage": "65\u201375%",
-    "thyroseq_v3_class": "RAS-like (ROM 65\u201375%)",
+    "rom_percentage": "65–75%",
+    "thyroseq_v3_class": "RAS-like (ROM 65–75%)",
     "afirma_xa_class": "Suspicious / Variant Present",
     "thygenext_class": "Moderate / Positive",
     "actionability": "Lobectomy recommended; emerging KRAS G12D selective small molecule inhibitors in oncology trials.",
@@ -761,11 +737,10 @@
     },
     "literature": [
       {
-        "title": "RAS-Mutant Thyroid Tumors: A Comprehensive Review",
-        "pmid": "31962381",
-        "journal": "Endocr Pathol",
-        "year": 2020,
-        "summary": "Comprehensive assessment of KRAS, NRAS, and HRAS alleles and their biologic divergence from BRAF-like neoplasms."
+        "pmid": "25417114",
+        "title": "Integrated genomic characterization of papillary thyroid carcinoma",
+        "first_author": "Cancer Genome Atlas Research Network",
+        "journal_year": "Cell (2014)"
       }
     ]
   },
@@ -784,7 +759,7 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Low Risk",
-    "rom_percentage": "70\u201380%",
+    "rom_percentage": "70–80%",
     "thyroseq_v3_class": "RAS-like / Low-Intermediate Risk",
     "afirma_xa_class": "Positive (Intermediate / RAS-like)",
     "thygenext_class": "Moderate Risk / Positive",
@@ -798,11 +773,10 @@
     },
     "literature": [
       {
-        "title": "BRAF K601E Mutation in Thyroid Neoplasms: Clinical and Biological Distinction from V600E",
-        "pmid": "22965942",
-        "journal": "J Clin Endocrinol Metab",
-        "year": 2012,
-        "summary": "Demonstrated that K601E mutations drive indolent follicular-variant PTC lacking the aggressive hallmarks of V600E."
+        "pmid": "15902486",
+        "title": "Type and prevalence of BRAF mutations are closely associated with follicular variant and histotype of papillary thyroid carcinoma",
+        "first_author": "Trovisco V, et al.",
+        "journal_year": "Virchows Arch / J Pathol (2005)"
       }
     ]
   },
@@ -820,8 +794,8 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Low to Intermediate Risk",
-    "rom_percentage": "50\u201365%",
-    "thyroseq_v3_class": "Intermediate / RAS-like (ROM 55\u201365%)",
+    "rom_percentage": "50–65%",
+    "thyroseq_v3_class": "Intermediate / RAS-like (ROM 55–65%)",
     "afirma_xa_class": "Suspicious / Fusion Present",
     "thygenext_class": "Moderate / Positive",
     "actionability": "Thyroid lobectomy typically adequate for encapsulated tumors; PPAR-gamma agonists (pioglitazone) studied in clinical research.",
@@ -834,11 +808,10 @@
     },
     "literature": [
       {
-        "title": "PAX8-PPARgamma rearrangement in follicular thyroid neoplasia",
-        "pmid": "10963602",
-        "journal": "Science",
-        "year": 2000,
-        "summary": "Landmark paper identifying the t(2;3) translocation as an oncogenic driver in follicular thyroid carcinomas."
+        "pmid": "10958784",
+        "title": "PAX8-PPARgamma1 fusion oncogene in human thyroid carcinoma",
+        "first_author": "Kroll TG, et al.",
+        "journal_year": "Science (2000)"
       }
     ]
   },
@@ -857,7 +830,7 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Low Risk",
-    "rom_percentage": "55\u201370%",
+    "rom_percentage": "55–70%",
     "thyroseq_v3_class": "Intermediate / RAS-like",
     "afirma_xa_class": "Suspicious / Fusion Present",
     "thygenext_class": "Moderate / Positive",
@@ -871,11 +844,10 @@
     },
     "literature": [
       {
-        "title": "THADA Fusions in Thyroid Neoplasms",
-        "pmid": "27680517",
-        "journal": "Cancer",
-        "year": 2017,
-        "summary": "Characterized THADA rearrangements and associated favorable indolent outcomes in indeterminate cytology."
+        "pmid": "28193878",
+        "title": "THADA fusion is a mechanism of IGF2BP3 activation and IGF1R signaling in thyroid cancer",
+        "first_author": "Panebianco F, et al.",
+        "journal_year": "Proc Natl Acad Sci U S A (2017)"
       }
     ]
   },
@@ -894,7 +866,7 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Low to Intermediate Risk",
-    "rom_percentage": "60\u201370%",
+    "rom_percentage": "60–70%",
     "thyroseq_v3_class": "Currently Available / Intermediate",
     "afirma_xa_class": "Suspicious / Variant Present",
     "thygenext_class": "Moderate / Positive",
@@ -908,11 +880,10 @@
     },
     "literature": [
       {
-        "title": "Clinical Practice Guidelines in Oncology: Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic (PTEN/Cowden)",
         "pmid": "33406487",
-        "journal": "J Natl Compr Canc Netw",
-        "year": 2021,
-        "summary": "Outlines surveillance and management guidelines for PTEN germline and somatic mutations in thyroid disease."
+        "title": "Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic, Version 2.2021",
+        "first_author": "Daly MB, et al.",
+        "journal_year": "J Natl Compr Canc Netw (2021)"
       }
     ]
   },
@@ -931,7 +902,7 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Intermediate (High when co-mutated with RAS/TERT)",
-    "rom_percentage": "60\u201375%",
+    "rom_percentage": "60–75%",
     "thyroseq_v3_class": "Intermediate / RAS-like (Aggressive when co-mutated)",
     "afirma_xa_class": "Suspicious / Variant Present",
     "thygenext_class": "Moderate / Positive",
@@ -945,11 +916,10 @@
     },
     "literature": [
       {
-        "title": "EIF1AX and RAS Mutations Cooperate to Drive Thyroid Tumorigenesis and Progression",
-        "pmid": "27083054",
-        "journal": "Cancer Discovery",
-        "year": 2016,
-        "summary": "Revealed that EIF1AX alters translation start-site fidelity and synergizes with RAS to accelerate malignant progression."
+        "pmid": "30305285",
+        "title": "EIF1AX and RAS Mutations Cooperate to Drive Thyroid Tumorigenesis through ATF4 and c-MYC",
+        "first_author": "Krishnamoorthy GP, et al.",
+        "journal_year": "Cancer Discov (2019)"
       }
     ]
   },
@@ -968,7 +938,7 @@
     ],
     "risk_category": "Intermediate Risk (RAS-like)",
     "ata_recurrence_risk": "Low to Intermediate Risk",
-    "rom_percentage": "50\u201365%",
+    "rom_percentage": "50–65%",
     "thyroseq_v3_class": "Intermediate / RAS-like",
     "afirma_xa_class": "Suspicious / Variant Present",
     "thygenext_class": "Moderate / Positive",
@@ -982,11 +952,10 @@
     },
     "literature": [
       {
-        "title": "DICER1 Mutations in Thyroid Neoplasms",
-        "pmid": "25000570",
-        "journal": "Thyroid",
-        "year": 2014,
-        "summary": "Characterized somatic and germline RNase IIIb hot spot mutations in benign and malignant pediatric and adult follicular nodules."
+        "pmid": "28323992",
+        "title": "Quantification of Thyroid Cancer and Multinodular Goiter Risk in an Unselected Cohort of Children and Adults with DICER1 Syndrome",
+        "first_author": "Khan NE, et al.",
+        "journal_year": "J Clin Endocrinol Metab (2017)"
       }
     ]
   },
@@ -1018,11 +987,10 @@
     },
     "literature": [
       {
-        "title": "Activating mutations in the thyrotropin receptor gene in toxic thyroid nodules",
-        "pmid": "8247152",
-        "journal": "Nature",
-        "year": 1993,
-        "summary": "Landmark report detailing the molecular basis of autonomous hyperfunctioning toxic thyroid adenomas."
+        "pmid": "8413627",
+        "title": "Somatic mutations in the thyrotropin receptor gene cause hyperfunctioning thyroid adenomas",
+        "first_author": "Parma J, et al.",
+        "journal_year": "Nature (1993)"
       }
     ]
   },
@@ -1054,11 +1022,10 @@
     },
     "literature": [
       {
-        "title": "Characterization of TSH receptor mutations in toxic adenomas",
-        "pmid": "29516685",
-        "journal": "J Clin Endocrinol Metab",
-        "year": 2018,
-        "summary": "Analyzed over 700 indeterminate and autonomous nodules, showing high prevalence of TSHR TM6 hot spots."
+        "pmid": "9253356",
+        "title": "Diversity and prevalence of somatic mutations in the thyrotropin receptor and Gs alpha genes in thyroid nodules",
+        "first_author": "Parma J, Duprez L, et al.",
+        "journal_year": "J Clin Endocrinol Metab (1997)"
       }
     ]
   },
@@ -1090,11 +1057,10 @@
     },
     "literature": [
       {
-        "title": "Activating Gsa mutations in toxic adenomas",
-        "pmid": "1846461",
-        "journal": "Science",
-        "year": 1991,
-        "summary": "Original discovery of gsp oncogene mutations in autonomous endocrine adenomas."
+        "pmid": "2116665",
+        "title": "Two G protein oncogenes in human endocrine tumors",
+        "first_author": "Lyons J, et al.",
+        "journal_year": "Science (1990)"
       }
     ]
   },
@@ -1126,11 +1092,10 @@
     },
     "literature": [
       {
+        "pmid": "10973256",
         "title": "Mutations of the gene encoding the protein kinase A type I-alpha regulatory subunit in patients with the Carney complex",
-        "pmid": "11017089",
-        "journal": "Nat Genet",
-        "year": 2000,
-        "summary": "Identified PRKAR1A loss-of-function driving familial endocrine neoplasia and follicular thyroid tumors."
+        "first_author": "Kirschner LS, et al.",
+        "journal_year": "Nat Genet (2000)"
       }
     ]
   },
@@ -1143,17 +1108,17 @@
     "hgvs_c": "Aneuploidy / LOH",
     "hgvs_p": "Chromosomal Loss / Uniparental Disomy",
     "tumor_types": [
-      "Oncocytic (H\u00fcrthle Cell) Carcinoma (HCC)",
+      "Oncocytic (Hürthle Cell) Carcinoma (HCC)",
       "Oncocytic Adenoma"
     ],
     "risk_category": "CNA / Aneuploidy",
     "ata_recurrence_risk": "Intermediate to High Risk (if invasive HCC)",
-    "rom_percentage": "60\u201385% (when CNA-High)",
+    "rom_percentage": "60–85% (when CNA-High)",
     "thyroseq_v3_class": "CNA-High Profile (Diagnostic for HCC/Oncocytic Carcinoma)",
     "afirma_xa_class": "Suspicious / High Loss-of-Heterozygosity (LOH)",
     "thygenext_class": "High Risk / Genomic Copy Number",
     "actionability": "Total thyroidectomy or completion thyroidectomy if invasive oncocytic carcinoma confirmed; radioiodine usually ineffective; clinical trials with lenvatinib/sorafenib.",
-    "clinical_summary": "Unique genomic hallmark of H\u00fcrthle cell (oncocytic) carcinomas, characterized by widespread near-haploid loss of whole chromosomes followed by genome endoreduplication. ThyroSeq v3 CNA algorithm specifically discriminates benign oncocytic adenomas (CNA-Low) from malignant oncocytic carcinomas (CNA-High).",
+    "clinical_summary": "Unique genomic hallmark of Hürthle cell (oncocytic) carcinomas, characterized by widespread near-haploid loss of whole chromosomes followed by genome endoreduplication. ThyroSeq v3 CNA algorithm specifically discriminates benign oncocytic adenomas (CNA-Low) from malignant oncocytic carcinomas (CNA-High).",
     "alphagenome": {
       "avi_phred": 25.5,
       "percentile": "0.280%",
@@ -1162,18 +1127,16 @@
     },
     "literature": [
       {
-        "title": "Whole-Genome Landscape of H\u00fcrthle Cell Thyroid Carcinoma",
-        "pmid": "29752317",
-        "journal": "Cancer Cell",
-        "year": 2018,
-        "summary": "Revealed near-haploidization and mitochondrial DNA mutations as the defining genomic architecture of oncocytic thyroid cancer."
+        "pmid": "30107175",
+        "title": "Widespread Chromosomal Losses and Mitochondrial DNA Alterations as Genetic Drivers in Hürthle Cell Carcinoma",
+        "first_author": "Gopal RK, et al.",
+        "journal_year": "Cancer Cell (2018)"
       },
       {
-        "title": "Utility of Copy Number Alteration Detection in Thyroid Nodules with H\u00fcrthle Cell Cytology",
-        "pmid": "31828751",
-        "journal": "Thyroid",
-        "year": 2020,
-        "summary": "Demonstrated that ThyroSeq v3 CNA scoring achieves >90% sensitivity and specificity in distinguishing oncocytic carcinomas from benign adenomas."
+        "pmid": "30419129",
+        "title": "Performance of a Multigene Genomic Classifier in Thyroid Nodules With Indeterminate Cytology: A Prospective Blinded Multicenter Study",
+        "first_author": "Steward DL, et al.",
+        "journal_year": "JAMA Oncol (2019)"
       }
     ]
   },
@@ -1192,7 +1155,7 @@
     ],
     "risk_category": "CNA / Aneuploidy",
     "ata_recurrence_risk": "Intermediate Risk",
-    "rom_percentage": "55\u201370%",
+    "rom_percentage": "55–70%",
     "thyroseq_v3_class": "CNA Positive / 22q Loss",
     "afirma_xa_class": "Suspicious / Loss of Heterozygosity",
     "thygenext_class": "Moderate / Copy Number Alteration",
@@ -1206,11 +1169,10 @@
     },
     "literature": [
       {
-        "title": "Chromosomal copy number changes in follicular thyroid neoplasms",
-        "pmid": "18029432",
-        "journal": "Oncogene",
-        "year": 2007,
-        "summary": "Demonstrated that 22q loss correlates with malignant potential in follicular patterned thyroid tumors."
+        "pmid": "12414503",
+        "title": "Genome-wide appraisal of thyroid cancer progression",
+        "first_author": "Wreesmann VB, et al.",
+        "journal_year": "Am J Pathol (2002)"
       }
     ]
   },
@@ -1228,7 +1190,7 @@
     ],
     "risk_category": "CNA / Aneuploidy",
     "ata_recurrence_risk": "Intermediate Risk",
-    "rom_percentage": "50\u201365%",
+    "rom_percentage": "50–65%",
     "thyroseq_v3_class": "CNA Positive",
     "afirma_xa_class": "Suspicious / LOH",
     "thygenext_class": "Moderate Risk",
@@ -1242,11 +1204,10 @@
     },
     "literature": [
       {
-        "title": "Loss of heterozygosity at 1p and 22q in thyroid neoplasia",
-        "pmid": "9794301",
-        "journal": "Clin Cancer Res",
-        "year": 1998,
-        "summary": "Early delineation of recurrent 1p deletion in aggressive follicular-derived thyroid carcinomas."
+        "pmid": "9135994",
+        "title": "Allelotype of follicular thyroid carcinomas reveals genetic instability consistent with frequent nondisjunctional chromosomal loss",
+        "first_author": "Tung WS, et al.",
+        "journal_year": "Genes Chromosomes Cancer (1997)"
       }
     ]
   }
