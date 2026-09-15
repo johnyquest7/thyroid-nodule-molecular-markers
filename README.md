@@ -36,85 +36,6 @@ Developed and maintained by **Johnson Thomas, MD, FACE, FEAA** (Department of En
    * Slide-over **Evidence Drawer** showing paper titles, journal, publication year, clinical takeaways, and direct PubMed links.
    * Real-time "Search PubMed" launcher prefilled with targeted search queries for each alteration.
 
-5. **Monthly Automated Antigravity Maintenance**:
-   * Built-in script (`pipeline/update_repository.py`) queries PubMed E-utilities for new publications, validates database integrity, refreshes metadata, and syncs web assets.
-
----
-
-## 🚀 Live Access & GitHub Pages Deployment
-
-The web portal is designed as a zero-dependency static single-page application (`index.html`) ready for GitHub Pages.
-
-To enable GitHub Pages on your repository:
-1. Navigate to your repository on GitHub: [`johnyquest7/thyroid-nodule-molecular-markers`](https://github.com/johnyquest7/thyroid-nodule-molecular-markers).
-2. Go to **Settings** > **Pages**.
-3. Under **Build and deployment** > **Source**, select **Deploy from a branch**.
-4. Select branch **`main`** and folder **`/ (root)`**, then click **Save**.
-5. Your portal will be live at:
-   ```
-   https://johnyquest7.github.io/thyroid-nodule-molecular-markers/
-   ```
-
----
-
-## 💻 Local Quickstart
-
-You can view the repository locally without any web server:
-1. Clone or open the repository:
-   ```bash
-   git clone https://github.com/johnyquest7/thyroid-nodule-molecular-markers.git
-   cd thyroid-nodule-molecular-markers
-   ```
-2. Double-click `index.html` to open it directly in any modern web browser (Chrome, Edge, Safari, Firefox).
-3. Alternatively, launch a lightweight local server:
-   ```bash
-   python -m http.server 8000
-   ```
-   Then open `http://localhost:8000` in your browser.
-
----
-
-## 🔄 Monthly Antigravity Maintenance
-
-To run the monthly synchronization and update the database:
-
-```bash
-python pipeline/update_repository.py
-```
-
-This pipeline automatically:
-1. Checks schema and data integrity across `data/thyroid_mutations.json`.
-2. Queries NCBI PubMed E-utilities for newly indexed publications in thyroid molecular diagnostics.
-3. Computes updated counts (High Risk, RAS-like, Low Risk, CNAs, Targeted therapies).
-4. Updates `data/metadata.json` with the current month and ISO timestamp.
-5. Synchronizes the embedded dataset inside `index.html`.
-
-Commit and push updates to GitHub:
-```bash
-git add data/ index.html
-git commit -m "chore: monthly database update [Month Year]"
-git push origin main
-```
-
----
-
-## 📊 Repository Structure
-
-```
-thyroid-nodule-molecular-markers/
-├── index.html                   # Interactive Single-Page Web Application
-├── README.md                    # Documentation & Setup Guide
-├── LICENSE                      # MIT License
-├── data/
-│   ├── thyroid_mutations.json  # Comprehensive master alteration callset
-│   └── metadata.json           # Version, counts, and update timestamps
-└── pipeline/
-    ├── update_repository.py    # Antigravity monthly updater & PubMed sync
-    ├── generate_initial_database.py # Callset generator & schema builder
-    └── inject_embedded_data.py # Zero-dependency HTML data injector
-```
-
----
 
 ## ⚠️ Disclaimer (Research Use Only)
 
@@ -123,9 +44,3 @@ thyroid-nodule-molecular-markers/
 
 ---
 
-## 👤 Author & Contact
-
-**Johnson Thomas, MD, FACE, FEAA**  
-Department of Endocrinology  
-Mercy Hospital Springfield, Missouri, USA  
-GitHub: [@johnyquest7](https://github.com/johnyquest7)
